@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\bin\Debug\net6.0\Day2 assignment.exe
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\bin\Debug\net6.0\Day2 assignment.deps.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\bin\Debug\net6.0\Day2 assignment.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\bin\Debug\net6.0\Day2 assignment.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\bin\Debug\net6.0\Day2 assignment.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\refint\Day2 assignment.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\Day2 assignment.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Day2\Day2 assignment\obj\Debug\net6.0\ref\Day2 assignment.dll
